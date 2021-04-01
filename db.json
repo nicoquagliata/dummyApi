@@ -8,9 +8,4 @@
   "profile": {
     "name": "typicode"
   },
-  "Cliente": {
-    "nombre": "Ines Tornudo",
-    "cedula": 12345678,
-    "direccion": "Serra Lima 2345",
-  }
 }
