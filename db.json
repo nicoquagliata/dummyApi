@@ -14,11 +14,28 @@
    "servicios":[
       {
          "id":1,
+         "cliente_id":1,
          "odometro":1000
       },
       {
          "id":2,
+         "cliente_id":1,
          "odometro":5000
+      },
+      {
+         "id":3,
+         "cliente_id":2,
+         "odometro":1000
+      },
+      {
+         "id":4,
+         "cliente_id":2,
+         "odometro":5000
+      },
+      {
+         "id":5,
+         "cliente_id":2,
+         "odometro":15000
       }
    ]
 }
